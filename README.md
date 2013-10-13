@@ -1,7 +1,9 @@
 links
 =====
 
-http://www.joelonsoftware.com/articles/fog0000000069.html
+http://www.paulgraham.com/articles.html
+
+http://www.joelonsoftware.com
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
 
