@@ -87,13 +87,9 @@ http://programmers.stackexchange.com/questions/117945/dev-vs-stage-environment-v
 
 http://nvie.com/posts/a-successful-git-branching-model/
 
-dns
-
 http://www.youtube.com/watch?v=2ZUxoi7YNgs
 
 http://www.youtube.com/watch?v=72snZctFFtA
-
-end dns
 
 http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html
 
